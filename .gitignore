@@ -1,0 +1,11 @@
+designs/weather_stations/cyrilli/firmware/settings.toml
+designs/weather_stations/cyrilli/pcb/*
+!designs/weather_stations/cyrilli/pcb/asylum-weather.kicad_pro
+!designs/weather_stations/cyrilli/pcb/asylum-weather.kicad_prl
+!designs/weather_stations/cyrilli/pcb/asylum-weather.kicad_sch
+!designs/weather_stations/cyrilli/pcb/asylum-weather.kicad_pcb
+!designs/weather_stations/cyrilli/pcb/sym-lib-table
+!designs/weather_stations/cyrilli/pcb/fp-lib-table
+!designs/weather_stations/cyrilli/pcb/lib
+!designs/weather_stations/cyrilli/pcb/production
+designs/weather_stations/cyrilli/pcb/production/backups
